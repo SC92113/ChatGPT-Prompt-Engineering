@@ -18,7 +18,9 @@
 - **Prompting principles**
 
   - **Principle 1 - write clear and specific instructions**
+    - p1
   - **Principle 2 - give the model time to 'think'**
+    - p1
 
 - **Prompt development lifecycle**
   
@@ -29,10 +31,15 @@
 
 - **Types of prompting**
   - **Summarizing**
+    - p1
   - **Extracting**
+    - p1
   - **Inferring**
+    - p1
   - **Transforming**
+    - p1
   - **Expanding**
+    - p1
 
 ### 📚 References
 
