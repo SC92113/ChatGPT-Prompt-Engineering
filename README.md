@@ -6,13 +6,13 @@
 - **Explore and maximize the use of prompts in various scenerios**
 - **Quick access to notebooks**
   
-  - Summarizing: here
-  - Extracting: here
-  - Inferring: here
-  - Transforming: here
-  - Expanding: here
-  - Chatbot: here
-  - Prompting guideline: here
+  - Summarizing: [here]()
+  - Extracting: [here]()
+  - Inferring: [here]()
+  - Transforming: [here]()
+  - Expanding: [here]()
+  - Chatbot: [here]()
+  - Prompting guideline: [here]()
 
 ### 💡 Key concepts in the project
 
