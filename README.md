@@ -25,11 +25,12 @@
   - **Quick access to notebooks: here**
 
 - **Prompt development lifecycle**
-  
-  - Idea/ Problem
-  - Implementation
-  - Experimental results
-  - Error analysis
+
+  - **Idea/ Problem**
+  - **Implementation**
+  - **Experimental results**
+  - **Error analysis**
+  - **Quick access to notebooks: here**
 
 - **Capabilities of prompting**
   - **Summarizing**
