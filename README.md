@@ -27,9 +27,13 @@
 - **Prompt development lifecycle**
 
   - **Idea/ Problem**
+    - p1
   - **Implementation**
+    - p1
   - **Experimental results**
+    - p1
   - **Error analysis**
+    - p1
   - **Quick access to notebooks: here**
 
 - **Capabilities of prompting**
