@@ -29,7 +29,7 @@
   - Experimental results
   - Error analysis
 
-- **Types of prompting**
+- **Capabilities of prompting**
   - **Summarizing**
     - p1
   - **Extracting**
