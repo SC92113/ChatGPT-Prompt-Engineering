@@ -20,7 +20,7 @@
     - p1
   - **Principle 2 - give the model time to 'think'**
     - p1
-  - **Quick access to notebooks: here**
+  - **Quick access to notebooks: [Prompting_Guidelines.ipynb](https://github.com/SC92113/ChatGPT-Prompt-Engineering/blob/b67c291849502f68af4df5efefc3985a06210c92/Prompting_Guidelines.ipynb)**
 
 - **Prompt development lifecycle**
 
@@ -32,7 +32,7 @@
     - p1
   - **Error analysis**
     - p1
-  - **Quick access to notebooks: here**
+  - **Quick access to notebooks: [Prompt_Development_Lifecycle.ipynb](https://github.com/SC92113/ChatGPT-Prompt-Engineering/blob/b67c291849502f68af4df5efefc3985a06210c92/Prompt_Development_Lifecycle.ipynb)**
 
 - **Capabilities of prompting**
   - **Summarizing**
