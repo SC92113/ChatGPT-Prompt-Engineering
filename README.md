@@ -10,16 +10,24 @@
   - Inferring including extracting: [Inferring_Prompt.ipynb](https://github.com/SC92113/ChatGPT-Prompt-Engineering/blob/ee7bf1ac5a5f4828f7829ae20abc913d29b98476/Inferring_Prompt.ipynb)
   - Transforming: [Transforming_Prompt.ipynb](https://github.com/SC92113/ChatGPT-Prompt-Engineering/blob/ee7bf1ac5a5f4828f7829ae20abc913d29b98476/Transforming_Prompt.ipynb)
   - Expanding: [Expanding_Prompt.ipynb](https://github.com/SC92113/ChatGPT-Prompt-Engineering/blob/ee7bf1ac5a5f4828f7829ae20abc913d29b98476/Expanding_Prompt.ipynb)
-  - Chatbot: [here]()
+  - Chatbot: [Building_Chatbot.ipynb](https://github.com/SC92113/ChatGPT-Prompt-Engineering/blob/51ed603bd595c4b785f52c8aa221d07f229561b3/Building_Chatbot.ipynb)
 
 ### 💡 Key concepts in the project
 
 - **Prompting principles**
 
   - **Principle 1 - write clear and specific instructions**
-    - p1
+  
+    - Use delimiters to quote the task and avoid prompt injection to ensure to execute content as a whole, i.e. '', "", ``, <>
+    - Ask for structured output formats to respond, i.e. JSON, HTML
+    - Check if the conditions are satisfied
+    - Few-shot prompting
+
   - **Principle 2 - give the model time to 'think'**
-    - p1
+  
+    - Specify steps to complete a task
+    - Instruct model to think before conclude and complete a task
+
 - Quick access to notebooks: [Prompting_Guidelines.ipynb](https://github.com/SC92113/ChatGPT-Prompt-Engineering/blob/b67c291849502f68af4df5efefc3985a06210c92/Prompting_Guidelines.ipynb)
 
 - **Prompt development lifecycle**
