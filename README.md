@@ -3,7 +3,7 @@
 ### 🛠️ This project is supported by [DeepLearning.AI](https://www.deeplearning.ai/) and [OpenAI](https://openai.com/).
 
 ### 🎯 Goal
-- **Maximize the use and capabilities of prompting**
+- **Optimize the use and capabilities of prompting**
 - **Quick access to notebooks**
   
   - Summarizing: [Summarizing_Prompt.ipynb](https://github.com/SC92113/ChatGPT-Prompt-Engineering/blob/ee7bf1ac5a5f4828f7829ae20abc913d29b98476/Summarizing_Prompt.ipynb)
