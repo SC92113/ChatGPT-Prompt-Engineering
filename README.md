@@ -28,35 +28,53 @@
     - Specify steps to complete a task
     - Instruct model to think before conclude and complete a task
 
-- Quick access to notebooks: [Prompting_Guidelines.ipynb](https://github.com/SC92113/ChatGPT-Prompt-Engineering/blob/b67c291849502f68af4df5efefc3985a06210c92/Prompting_Guidelines.ipynb)
+  - **Quick access to notebook:** [Prompting_Guidelines.ipynb](https://github.com/SC92113/ChatGPT-Prompt-Engineering/blob/b67c291849502f68af4df5efefc3985a06210c92/Prompting_Guidelines.ipynb)
 
 - **Prompt development lifecycle**
+  - **Process**
+    - Idea/ Problem
+    - Implementation
+    - Experimental results
+    - Error analysis
 
-  - **Idea/ Problem**
-    - p1
-  - **Implementation**
-    - p1
-  - **Experimental results**
-    - p1
-  - **Error analysis**
-    - p1
-- Quick access to notebooks: [Prompt_Development_Lifecycle.ipynb](https://github.com/SC92113/ChatGPT-Prompt-Engineering/blob/b67c291849502f68af4df5efefc3985a06210c92/Prompt_Development_Lifecycle.ipynb)
+  - **Quick access to notebook:** [Prompt_Development_Lifecycle.ipynb](https://github.com/SC92113/ChatGPT-Prompt-Engineering/blob/b67c291849502f68af4df5efefc3985a06210c92/Prompt_Development_Lifecycle.ipynb)
 
 - **Capabilities of prompting**
+
   - **Summarizing**
-    - p1
+    - Summarize a task content based on prompt
+    - For multiple tasks
+      - Define a List of all required task contents
+      - Define for-loop of List
+      - Print( i, response, "\n")
+    - Can be single/ multiple tasks
+  
   - **Extracting**
-    - p1
+    - Extracting is part of natural language processing (NLP)
+    - Can be included in the process of summarizing and inferring
+
   - **Inferring**
-    - p1
+    - Help provide basic understanding of a task content
+    - Classify sentiment of a task content (Yes/ No)
+    - Identify specific sentiments of a task content (What kinds of sentiments)
+    - Extract keywords as an understanding of a task content
+    - Can be single/ multiple tasks
+
   - **Transforming**
-    - p1
+    - Identify language
+    - Translate from language A to language B
+    - Tranform to formal and informal tone
+    - Tranform from format A to format B, i.e. HTML, JSON
+    - Transform from text A to text B, i.e. re-writing, shortening
+    - Check gramma and spelling
+    - Can be single/ multiple tasks
+
   - **Expanding**
-    - p1
+    - Create a response including all the other functions, i.e. extract and summarize the task content for creating a response
 
 ### 📚 References
 
 - OpenAI API: [OpenAI API access](https://platform.openai.com/login?launch)
 - Best practices for prompt engineering [Prompting FAQ](https://help.openai.com/en/articles/6654000-best-practices-for-prompt-engineering-with-the-openai-api)
 - Prompting with OpenAI examples: [Examples](https://platform.openai.com/examples)
-- Reference text contents for prompting: [DeepLearning.AI](https://www.deeplearning.ai/)
+- Reference task contents for prompting: [DeepLearning.AI](https://www.deeplearning.ai/)
