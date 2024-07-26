@@ -3,7 +3,7 @@
 ### 🛠️ This project is supported by [DeepLearning.AI](https://www.deeplearning.ai/) and [OpenAI](https://openai.com/).
 
 ### 🎯 Goal
-- **Explore and maximize the use of prompts in various scenerios**
+- **Maximize the use and capabilities of prompting**
 - **Quick access to notebooks**
   
   - Summarizing: [here]()
