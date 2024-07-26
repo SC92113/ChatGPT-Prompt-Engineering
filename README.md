@@ -12,7 +12,6 @@
   - Transforming: [here]()
   - Expanding: [here]()
   - Chatbot: [here]()
-  - Prompting guideline: [here]()
 
 ### 💡 Key concepts in the project
 
