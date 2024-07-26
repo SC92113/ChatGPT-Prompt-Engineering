@@ -6,11 +6,10 @@
 - **Maximize the use and capabilities of prompting**
 - **Quick access to notebooks**
   
-  - Summarizing: [here]()
-  - Extracting: [here]()
-  - Inferring: [here]()
-  - Transforming: [here]()
-  - Expanding: [here]()
+  - Summarizing: [Summarizing_Prompt.ipynb](https://github.com/SC92113/ChatGPT-Prompt-Engineering/blob/ee7bf1ac5a5f4828f7829ae20abc913d29b98476/Summarizing_Prompt.ipynb)
+  - Inferring including extracting: [Inferring_Prompt.ipynb](https://github.com/SC92113/ChatGPT-Prompt-Engineering/blob/ee7bf1ac5a5f4828f7829ae20abc913d29b98476/Inferring_Prompt.ipynb)
+  - Transforming: [Transforming_Prompt.ipynb](https://github.com/SC92113/ChatGPT-Prompt-Engineering/blob/ee7bf1ac5a5f4828f7829ae20abc913d29b98476/Transforming_Prompt.ipynb)
+  - Expanding: [Expanding_Prompt.ipynb](https://github.com/SC92113/ChatGPT-Prompt-Engineering/blob/ee7bf1ac5a5f4828f7829ae20abc913d29b98476/Expanding_Prompt.ipynb)
   - Chatbot: [here]()
 
 ### 💡 Key concepts in the project
