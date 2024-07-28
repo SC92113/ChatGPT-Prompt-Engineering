@@ -43,12 +43,12 @@
 
   - **Summarizing**
     - Summarize a task content based on prompt
+    - Can be single/ multiple tasks
     - For multiple tasks
       - Define a List of all required task contents
       - Define for-loop of List
       - Print( i, response, "\n")
-    - Can be single/ multiple tasks
-  
+
   - **Extracting**
     - Extracting is part of natural language processing (NLP)
     - Can be included in the process of summarizing and inferring
