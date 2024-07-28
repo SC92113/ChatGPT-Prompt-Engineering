@@ -75,6 +75,7 @@
 ### 📚 References
 
 - OpenAI API: [OpenAI API access](https://platform.openai.com/login?launch)
+  - if there is rate and region limit, check out [Limit guide](https://platform.openai.com/docs/guides/rate-limits)
 - Best practices for prompt engineering [Prompting FAQ](https://help.openai.com/en/articles/6654000-best-practices-for-prompt-engineering-with-the-openai-api)
 - Prompting with OpenAI examples: [Examples](https://platform.openai.com/examples)
 - Reference task contents for prompting: [DeepLearning.AI](https://www.deeplearning.ai/)
