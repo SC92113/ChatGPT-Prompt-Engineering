@@ -6,11 +6,13 @@
 - ### Optimize the use and capabilities of prompting
 - ### Quick access to notebooks
   
-  - Summarizing: [Summarizing_Prompt.ipynb](https://github.com/SC92113/ChatGPT-Prompt-Engineering/blob/ee7bf1ac5a5f4828f7829ae20abc913d29b98476/Summarizing_Prompt.ipynb)
-  - Inferring including extracting: [Inferring_Prompt.ipynb](https://github.com/SC92113/ChatGPT-Prompt-Engineering/blob/ee7bf1ac5a5f4828f7829ae20abc913d29b98476/Inferring_Prompt.ipynb)
-  - Transforming: [Transforming_Prompt.ipynb](https://github.com/SC92113/ChatGPT-Prompt-Engineering/blob/ee7bf1ac5a5f4828f7829ae20abc913d29b98476/Transforming_Prompt.ipynb)
-  - Expanding: [Expanding_Prompt.ipynb](https://github.com/SC92113/ChatGPT-Prompt-Engineering/blob/ee7bf1ac5a5f4828f7829ae20abc913d29b98476/Expanding_Prompt.ipynb)
-  - Chatbot: [Building_Chatbot.ipynb](https://github.com/SC92113/ChatGPT-Prompt-Engineering/blob/51ed603bd595c4b785f52c8aa221d07f229561b3/Building_Chatbot.ipynb)
+  - ### [Summarizing_Prompt.ipynb](https://github.com/SC92113/ChatGPT-Prompt-Engineering/blob/ee7bf1ac5a5f4828f7829ae20abc913d29b98476/Summarizing_Prompt.ipynb)
+  - ### [Inferring_Prompt.ipynb](https://github.com/SC92113/ChatGPT-Prompt-Engineering/blob/ee7bf1ac5a5f4828f7829ae20abc913d29b98476/Inferring_Prompt.ipynb)
+  - ### [Transforming_Prompt.ipynb](https://github.com/SC92113/ChatGPT-Prompt-Engineering/blob/ee7bf1ac5a5f4828f7829ae20abc913d29b98476/Transforming_Prompt.ipynb)
+  - ### [Expanding_Prompt.ipynb](https://github.com/SC92113/ChatGPT-Prompt-Engineering/blob/ee7bf1ac5a5f4828f7829ae20abc913d29b98476/Expanding_Prompt.ipynb)
+  - ### [Building_Chatbot.ipynb](https://github.com/SC92113/ChatGPT-Prompt-Engineering/blob/51ed603bd595c4b785f52c8aa221d07f229561b3/Building_Chatbot.ipynb)
+  - ### [Prompting_Guidelines.ipynb](https://github.com/SC92113/ChatGPT-Prompt-Engineering/blob/b67c291849502f68af4df5efefc3985a06210c92/Prompting_Guidelines.ipynb)
+  - ### [Prompt_Development_Lifecycle.ipynb](https://github.com/SC92113/ChatGPT-Prompt-Engineering/blob/b67c291849502f68af4df5efefc3985a06210c92/Prompt_Development_Lifecycle.ipynb)
 
 ## 💡 Key concepts in the project
 
@@ -28,17 +30,13 @@
     - Specify steps to complete a task
     - Instruct model to think before conclude and complete a task
 
-  - **Quick access to notebook:** [Prompting_Guidelines.ipynb](https://github.com/SC92113/ChatGPT-Prompt-Engineering/blob/b67c291849502f68af4df5efefc3985a06210c92/Prompting_Guidelines.ipynb)
-
 - ### Prompt development lifecycle
   - **Process**
     - Idea/ Problem
     - Implementation
     - Experimental results
     - Error analysis
-
-  - **Quick access to notebook:** [Prompt_Development_Lifecycle.ipynb](https://github.com/SC92113/ChatGPT-Prompt-Engineering/blob/b67c291849502f68af4df5efefc3985a06210c92/Prompt_Development_Lifecycle.ipynb)
-
+  
 - ### Capabilities of prompting
 
   - **Summarizing**
