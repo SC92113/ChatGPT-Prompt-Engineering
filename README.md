@@ -2,9 +2,9 @@
 
 ### 🛠️ This project is supported by [DeepLearning.AI](https://www.deeplearning.ai/) and [OpenAI](https://openai.com/).
 
-### 🎯 Goal
-- **Optimize the use and capabilities of prompting**
-- **Quick access to notebooks**
+## 🎯 Goal
+- ### Optimize the use and capabilities of prompting
+- ### Quick access to notebooks
   
   - Summarizing: [Summarizing_Prompt.ipynb](https://github.com/SC92113/ChatGPT-Prompt-Engineering/blob/ee7bf1ac5a5f4828f7829ae20abc913d29b98476/Summarizing_Prompt.ipynb)
   - Inferring including extracting: [Inferring_Prompt.ipynb](https://github.com/SC92113/ChatGPT-Prompt-Engineering/blob/ee7bf1ac5a5f4828f7829ae20abc913d29b98476/Inferring_Prompt.ipynb)
@@ -12,9 +12,9 @@
   - Expanding: [Expanding_Prompt.ipynb](https://github.com/SC92113/ChatGPT-Prompt-Engineering/blob/ee7bf1ac5a5f4828f7829ae20abc913d29b98476/Expanding_Prompt.ipynb)
   - Chatbot: [Building_Chatbot.ipynb](https://github.com/SC92113/ChatGPT-Prompt-Engineering/blob/51ed603bd595c4b785f52c8aa221d07f229561b3/Building_Chatbot.ipynb)
 
-### 💡 Key concepts in the project
+## 💡 Key concepts in the project
 
-- **Prompting principles**
+- ### Prompting principles
 
   - **Principle 1 - write clear and specific instructions**
   
@@ -30,7 +30,7 @@
 
   - **Quick access to notebook:** [Prompting_Guidelines.ipynb](https://github.com/SC92113/ChatGPT-Prompt-Engineering/blob/b67c291849502f68af4df5efefc3985a06210c92/Prompting_Guidelines.ipynb)
 
-- **Prompt development lifecycle**
+- ### Prompt development lifecycle
   - **Process**
     - Idea/ Problem
     - Implementation
@@ -39,7 +39,7 @@
 
   - **Quick access to notebook:** [Prompt_Development_Lifecycle.ipynb](https://github.com/SC92113/ChatGPT-Prompt-Engineering/blob/b67c291849502f68af4df5efefc3985a06210c92/Prompt_Development_Lifecycle.ipynb)
 
-- **Capabilities of prompting**
+- ### Capabilities of prompting
 
   - **Summarizing**
     - Summarize a task content based on prompt
@@ -72,7 +72,7 @@
   - **Expanding**
     - Create a response including all the other functions, i.e. extract and summarize the task content for creating a response
 
-### 📚 References
+## 📚 References
 
 - OpenAI API: [OpenAI API access](https://platform.openai.com/login?launch)
   - if there is rate and region limit, check out [Limit guide](https://platform.openai.com/docs/guides/rate-limits)
