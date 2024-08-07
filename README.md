@@ -2,6 +2,14 @@
 
 ### 🛠️ This project is supported by [DeepLearning.AI](https://www.deeplearning.ai/) and [OpenAI](https://openai.com/).
 
+## ☰ Table of Contents
+- [Goal](https://github.com/SC92113/ChatGPT-Prompt-Engineering?tab=readme-ov-file#-goal)
+- [Key concepts in the project](https://github.com/SC92113/ChatGPT-Prompt-Engineering?tab=readme-ov-file#-key-concepts-in-the-project)
+  - [Prompting principles](https://github.com/SC92113/ChatGPT-Prompt-Engineering?tab=readme-ov-file#prompting-principles)
+  - [Prompt development lifecycle](https://github.com/SC92113/ChatGPT-Prompt-Engineering?tab=readme-ov-file#prompt-development-lifecycle)
+  - [Capabilities of prompting](https://github.com/SC92113/ChatGPT-Prompt-Engineering?tab=readme-ov-file#capabilities-of-prompting)
+- [References](https://github.com/SC92113/ChatGPT-Prompt-Engineering?tab=readme-ov-file#-references)
+
 ## 🎯 Goal
 - ### Optimize the use and capabilities of prompting
 - ### Quick access to notebooks
