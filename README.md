@@ -1,7 +1,5 @@
 # ChatGPT-Prompt-Engineering
 
-### 🛠️ This project is supported by [DeepLearning.AI](https://www.deeplearning.ai/) and [OpenAI](https://openai.com/).
-
 ## ☰ Table of Contents
 - [Goal](https://github.com/SC92113/ChatGPT-Prompt-Engineering?tab=readme-ov-file#-goal)
 - [Key concepts in the project](https://github.com/SC92113/ChatGPT-Prompt-Engineering?tab=readme-ov-file#-key-concepts-in-the-project)
@@ -85,3 +83,5 @@
 - Best practices for prompt engineering [Prompting FAQ](https://help.openai.com/en/articles/6654000-best-practices-for-prompt-engineering-with-the-openai-api)
 - Prompting with OpenAI examples: [Examples](https://platform.openai.com/examples)
 - Reference task contents for prompting: [DeepLearning.AI](https://www.deeplearning.ai/)
+
+## 🛠️ This project is supported by [DeepLearning.AI](https://www.deeplearning.ai/) and [OpenAI](https://openai.com/).
